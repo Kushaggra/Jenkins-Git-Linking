@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JenkinsTestAppApplication {
 
 	public static void main(String[] args) {
+		//Hi there, testing commmit build with Git-Jenkins WebHooks
 		SpringApplication.run(JenkinsTestAppApplication.class, args);
 	}
 
